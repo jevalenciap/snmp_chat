@@ -7,6 +7,7 @@ En esta comunicación el valor de la comunidad SNMP sirve como autenticación de
 Para garantizar confidencialidad en la comunicación los mensajes se pueden cifrar utilizando AES, para eso es necesario especificar  la misma llave precompartida en los dos extremos.
 
 Uso:
+
 *Se debe correr el mismo script en los dos hosts que se desean comunicar.
 
 *En la distribución Kali Linux funciona perfectamnete sin necesidad de instalar nada.
